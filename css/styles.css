@@ -15,10 +15,6 @@ header {
   font-size: 16px;
 }
 
-h4 {
-  font-weight: bold;
-}
-
 .logo-container, .nav-links {
   display: flex;
 }
@@ -58,13 +54,18 @@ nav ul li:hover {
   display: none;
 }
 
-h3 {
+h1 {
   font-weight: bold;
+  font-size: 30px;
 }
 
 .container.section-cuadros {
   margin-left: 200px;
   margin-top: 50px;
+}
+
+h2 {
+  font-size: 25px;
 }
 
 .nosotros.container.section-cuadros {
